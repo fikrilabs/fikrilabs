@@ -1,164 +1,100 @@
 <p align="center">
-  <img src="BannerGit.jpg" alt="Banner" width="100%">
+  <img src="BannerGit.jpg" alt="FIKRILABS Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Fikri</h1>
-
-<h3 align="center">
-Software Engineer in Progress
-</h3>
+<h2 align="center">Hi, I'm Fikri 👋</h2>
 
 <p align="center">
-Building Software • Exploring AI • Creating Solutions
+Information Systems Student • Software Engineer in Progress
 </p>
 
 <p align="center">
-<a href="https://github.com/fikrilabs">
-<img src="https://komarev.com/ghpvc/?username=fikrilabs&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+Building software, exploring AI, and creating meaningful digital solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/fikrilabs">
+    <img src="https://komarev.com/ghpvc/?username=fikrilabs&style=flat-square&color=0e75b6" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## About Me
 
 - 🎓 Information Systems Student
-- 💻 Passionate about Software Engineering
+- 💻 Interested in Software Engineering
 - 🤖 Exploring Artificial Intelligence
-- 🌐 Building Modern Web Applications
-- 📚 Always learning new technologies
-- 🚀 Goal: Become a Software Engineer
+- 🌐 Building modern web applications
+- 🌱 Currently learning Backend Development, Cloud, and System Design
 
 ---
 
-# 🌱 Currently Learning
-
-- Backend Development
-- Software Architecture
-- Machine Learning
-- Cloud Computing
-- System Design
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css" />
-</p>
-
-### Framework & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,vscode,figma,docker" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🥚 EggVision AI
-
-AI-powered chicken egg detection using computer vision and Gemini AI.
-
----
-
-## 📸 SI SnapStation
-
-Interactive digital photobooth system for university events.
-
----
-
-## 🌐 Portfolio Website
-
-Personal portfolio showcasing projects and experiences.
-
----
-
-# 📊 GitHub Analytics
+## Tech Stack
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fikrilabs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrilabs&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,react,nodejs,firebase,mysql,git,docker,vscode,figma&perline=6" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🥚 **EggVision AI** | AI-powered egg detection and analytics. |
+| 📸 **SI SnapStation** | Interactive digital photobooth for university events. |
+| 🌐 **Portfolio Website** | Personal website showcasing my work and experience. |
+
+---
+
+## GitHub Stats
 
 <p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fikrilabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikrilabs&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=fikrilabs&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=fikrilabs&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fikrilabs&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/fikrilabs/.github/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/fikrilabs/.github/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-# 📫 Connect with Me
+## Connect
 
-<p>
-
-<a href="mailto:fikriabdillah81@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://instagram.com/updllhh">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
+<p align="center">
 <a href="https://github.com/fikrilabs">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
 </a>
-
+&nbsp;
+<a href="mailto:fikriabdillah81@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/updllhh">
+<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
+</a>
 </p>
 
 ---
 
-# 💡 Quote
-
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-*"Code. Learn. Build. Repeat."*
-
-⭐ If you like my projects, don't forget to leave a star.
-
-</div>
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
+</p>
