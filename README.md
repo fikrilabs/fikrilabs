@@ -48,19 +48,6 @@ I'm an Information Systems student passionate about building impactful software 
 
 ---
 
-## 📌 Featured Projects
-
-🥚 **EggVision AI**
-> AI-powered application for chicken egg detection and analytics.
-
-📸 **SI SnapStation**
-> Interactive digital photobooth for university promotion.
-
-🌐 **Portfolio Website**
-> Personal portfolio showcasing projects and experience.
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
