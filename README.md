@@ -77,6 +77,17 @@ Building software, exploring AI, and creating meaningful digital solutions.
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Enthusiast;Backend+Developer;Information+Systems+Student" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-3BA4F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-06152E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-2563EB?style=for-the-badge" />
+</p>
+
+---
+
 ## Connect
 
 <p align="center">
