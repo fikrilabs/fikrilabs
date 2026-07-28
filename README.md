@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BannerGit.jpg" alt="FIKRILABS Banner" width="100%">
+  <img src="BannerGit1.jpg" alt="FIKRILABS Banner" width="100%">
 </p>
 
 <h2 align="center">Hi, I'm Fikri 👋</h2>
