@@ -5,7 +5,7 @@
 <h2 align="center">Hi, I'm Fikri 👋</h2>
 
 <p align="center">
-Information Systems Student • Software Engineer in Progress
+Information Systems Student • Software Engineer in Progress • Vibe Coding
 </p>
 
 <p align="center">
